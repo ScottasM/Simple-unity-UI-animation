@@ -9,7 +9,11 @@ A rather simple UI animation script for unity, that allows animating UI using sl
 Just donwload the UIAnimation.unitypackage and add it to your project.
 
 # Usage
-Add AnimateUI script to any UI object and play around with the settings.
+Add AnimateUI script to any UI object.
+Get the reference of the AnimateUI script.
+Call ```Show(immediatelly = false, OnOpen = null)``` to open and ```Hide(bool immediately = false,Action OnClose = null``` to close.
+Use OnOpen or OnClose for Actions on animation end. 
+
 
 # Example
 With the settings in the photo, i got a result like in the GIF
