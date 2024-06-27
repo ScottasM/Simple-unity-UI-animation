@@ -11,7 +11,7 @@ Just donwload the UIAnimation.unitypackage and add it to your project.
 # Usage
 Add AnimateUI script to any UI object.
 Get the reference of the AnimateUI script.
-Call ```Show(immediatelly = false, OnOpen = null)``` to open and ```Hide(bool immediately = false,Action OnClose = null``` to close.
+Call ```Show(bool immediately = false, Action OnOpen = null)``` to open and ```Hide(bool immediately = false, Action OnClose = null)``` to close.
 Use OnOpen or OnClose for Actions on animation end. 
 
 
