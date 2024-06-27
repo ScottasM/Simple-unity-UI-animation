@@ -10,6 +10,7 @@ Add AnimateUI script to any UI object and play around with the settings.
 
 #Example
 With the settings in the photo, i got a result like in the GIF
+
 ![](https://github.com/ScottasM/Simple-unity-UI-animation/assets/68515176/2f0c7452-ec2e-4243-aedb-9d0421da70fd)
 
 ![](https://github.com/ScottasM/Simple-unity-UI-animation/assets/68515176/a67de043-f056-4fba-85a8-b4c03472bbac)
